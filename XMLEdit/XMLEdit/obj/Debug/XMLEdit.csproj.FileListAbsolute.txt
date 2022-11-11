@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\XMLEdit\XMLEdit\bin\Debug\XMLEdit.exe.config
+C:\Users\Admin\source\repos\XMLEdit\XMLEdit\bin\Debug\XMLEdit.exe
+C:\Users\Admin\source\repos\XMLEdit\XMLEdit\bin\Debug\XMLEdit.pdb
+C:\Users\Admin\source\repos\XMLEdit\XMLEdit\obj\Debug\XMLEdit.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\XMLEdit\XMLEdit\obj\Debug\XMLEdit.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\XMLEdit\XMLEdit\obj\Debug\XMLEdit.Form1.resources
+C:\Users\Admin\source\repos\XMLEdit\XMLEdit\obj\Debug\XMLEdit.Properties.Resources.resources
+C:\Users\Admin\source\repos\XMLEdit\XMLEdit\obj\Debug\XMLEdit.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\XMLEdit\XMLEdit\obj\Debug\XMLEdit.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\XMLEdit\XMLEdit\obj\Debug\XMLEdit.exe
+C:\Users\Admin\source\repos\XMLEdit\XMLEdit\obj\Debug\XMLEdit.pdb
